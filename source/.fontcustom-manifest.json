@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "2b30d11ca4679ce0ea8e1c535ad57fe907a4da51ed9ef884d9f5175a7b443679",
-    "current": "2b30d11ca4679ce0ea8e1c535ad57fe907a4da51ed9ef884d9f5175a7b443679"
+    "previous": "05ce7922c4d44ada365e3cf5723212101b91149edf69e68b56369d28be461cc3",
+    "current": "05ce7922c4d44ada365e3cf5723212101b91149edf69e68b56369d28be461cc3"
   },
   "fonts": [
     "fontcustom-webfont//Genericons.ttf",
@@ -462,6 +462,10 @@
       "codepoint": 62544,
       "source": "svg/skip-back.svg"
     },
+    "skip-fullscreen": {
+      "codepoint": 62744,
+      "source": "svg/skip-fullscreen.svg"
+    },
     "skype": {
       "codepoint": 61984,
       "source": "svg/skype.svg"
@@ -611,7 +615,7 @@
     "font_name": "Genericons",
     "force": true,
     "input": {
-      "templates": "fontcustom-templates",
+      "templates": "svg",
       "vectors": "svg"
     },
     "no_hash": true,
